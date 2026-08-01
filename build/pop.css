@@ -12,7 +12,7 @@
 /* ============ tokens ============ */
 :root{
   color-scheme:light;
-  --font-display:"Hiragino Maru Gothic ProN","ヒラギノ丸ゴ ProN","筑紫A丸ゴシック",ui-rounded,"SF Pro Rounded","Arial Rounded MT Bold","Yu Gothic",YuGothic,sans-serif;
+  --font-display:"Hiragino Maru Gothic ProN","ヒラギノ丸ゴ ProN","筑紫A丸ゴシック",ui-rounded,"SF Pro Rounded","Arial Rounded MT Bold","UD デジタル教科書体 NP-R","BIZ UDPGothic",Meiryo,"Yu Gothic",YuGothic,sans-serif;
   --font-body:"Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic",YuGothic,"Noto Sans JP",system-ui,-apple-system,sans-serif;
   --font-mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
 
