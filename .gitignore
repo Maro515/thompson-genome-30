@@ -1,0 +1,14 @@
+# 原著PDFから抽出した本文テキスト。著作物そのものの複製なので絶対に公開しない。
+# 手元での内容確認用にのみ保持する（再生成: pdftotext -layout で抽出し build/assemble.py 側では未使用）。
+build/ocr/
+
+# 旧デザインのバックアップ（公開不要）
+build/shell.editorial.bak.html
+
+# OS / エディタ
+.DS_Store
+._*
+.vscode/
+*.swp
+__pycache__/
+*.pyc
